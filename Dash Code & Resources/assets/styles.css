@@ -1,0 +1,9 @@
+body{
+    background:purple;
+}
+.rc-slider-mark-text{
+    color:white;
+}
+input[type=checkbox]{
+    margin: 5px;
+}
