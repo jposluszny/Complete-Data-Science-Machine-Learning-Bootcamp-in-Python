@@ -30,7 +30,7 @@ app.layout = html.Div(
             },
             multiple=False,
         ),
-        html.Div(id="data-store"),
+        html.Div(id="data-store", style={"display": "none"}),
         html.Div(
             id="table",
         ),

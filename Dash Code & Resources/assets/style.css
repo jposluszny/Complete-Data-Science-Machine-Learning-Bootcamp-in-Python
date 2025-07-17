@@ -1,0 +1,13 @@
+body {
+    background-color : lightblue;
+    font-size: 30px;
+}
+
+.box {
+    width : 100%;
+    min-height : 100px;
+    border: 3px dashed black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top:20px;
+}
